@@ -1,37 +1,33 @@
-import {Template1} from "../src/components/Templates/Template1/Template1"
-import {Template2} from "../src/components/Templates/Template2/Template2";
-import {Projects} from "../src/components/Projects/Projects";
-import {Signup} from "../src/components/Signup/Signup";
-import {Signin} from "../src/components/Signin/Signin";
-import {Home} from "../src/components/Home/Home";
-import {Certificate} from "../src/components/Certificates/Certificate";
-import {Achievements} from "../src/components/Achievements/Achievements";
-import {Education} from "../src/components/Education/Education";
-import {ForgetPassword} from "../src/components/ForgetPassword/ForgetPassword";
-import {Profile} from "../src/components/Profile/Profile";
+import React from 'react';
+import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { Home } from './Pages/Home';
+import {Achievement} from './Components/Achievement/Achievement';
+import {Contact} from './Components/Contact/Contact';
+import {Edit} from './Components/Edit/Edit';
+import {Experience} from './Components/Experience/Experience';
+import {Login} from './Components/Login/Login';
+import {Signup} from './Components/Signup/Signup';
+import {Skills} from './Components/Skills/Skills';
+import { Project } from './Components/Project/Project';
 
 function App() {
   return (
-   
-  <>
-   <Router>
+    <div className="App">
+      <Router>
         <Routes>
-          <Route path="/" element={<Home/>} />
-        <Route path="/signup" element={<Signup/>} />
-        <Route path="/signin" element={<Signin/>} />
-        <Route path="/resume1" element={<Template1/>} />
-        <Route path="/resume2" element={<Template2/>} />
-        <Route path="/projects" element={<Projects/>} />
-        <Route path="/certificate" element={<Certificate/>} />
-        <Route path="/achievements" element={<Achievements/>} />
-        <Route path="/education" element={<Education/>} />
-        <Route path="/forgotpass" element={<ForgetPassword/>} />
-        <Route path="/profile" element={<Profile/>} />
+        <Route path="/" element={<Home/>} />
+        <Route path="/achievement" element={<Achievement/>} />
+        <Route path="/contact" element={<Contact/>} />
+         <Route path="/edit" element={<Edit/>} />
+         <Route path="/project" element={<Project/>} />
+         <Route path="/experience" element={<Experience/>} />
+         <Route path="/login" element={<Login/>} />
+         <Route path="/signup" element={<Signup/>} />
+         <Route path="/skill" element={<Skills/>} />
       </Routes>
         </Router>
-        </>
-  
+    </div>
   );
 }
 

@@ -1,0 +1,170 @@
+.home {
+    background-color: #21262d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home .div {
+    background-color: #21262d;
+    height: 900px;
+    overflow: hidden;
+    position: relative;
+    width: 1350px;
+  }
+  
+  
+  .home .rectangle {
+    height: 583px;
+    left: 160px;
+    object-fit: cover;
+    position: absolute;
+    top: 231px;
+    width: 419px;
+  }
+  
+  .home .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 890px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 245px;
+  }
+  
+  .home .p {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 714px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 319px;
+  }
+  
+  .home .overlap-2 {
+    height: 275px;
+    left: 746px;
+    position: absolute;
+    top: 364px;
+    width: 447px;
+  }
+  
+  .home .rectangle-2 {
+    background-color: #32363e;
+    border-radius: 30px;
+    height: 236px;
+    left: 0;
+    position: absolute;
+    top: 21px;
+    width: 447px;
+  }
+  
+  .home .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 165px;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 53px;
+    width: 391px;
+  }
+  
+  .home .overlap-3 {
+    border-radius: 30px;
+    height: 55px;
+    left: 758px;
+    position: absolute;
+    top: 676px;
+    width: 191px;
+  }
+  
+  .home .rectangle-3 {
+    background-color: #21262e;
+    border: 1px solid;
+    border-color: #bad4fe;
+    border-radius: 30px;
+    height: 55px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 191px;
+  }
+  
+  .home .text-wrapper-10 {
+    color: #bad4fe;
+    font-family: "DM Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    cursor: pointer;
+    position: absolute;
+    top: 19px;
+  }
+  
+  .home .div-wrapper {
+    background-color: #21262e;
+    border: 1px solid;
+    border-color: #bad4fe;
+    border-radius: 30px;
+    height: 55px;
+    left: 975px;
+    position: absolute;
+    top: 676px;
+    width: 190px;
+  }
+  
+  .home .text-wrapper-11 {
+    color: #b9d4fe;
+    font-family: "DM Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 43px;
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+  }
+  
+ 
+  .home .overlap-4 {
+    background-color: #4383e8;
+    border-radius: 30px;
+    height: 55px;
+    left: 874px;
+    position: absolute;
+    top: 766px;
+    width: 191px;
+  }
+  
+  .home .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    cursor: pointer;
+    top: 15px;
+  }
+  
+  .home .download-instance {
+    left: 117px !important;
+    top: 15px !important;
+  }
+  

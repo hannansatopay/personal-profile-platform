@@ -1,0 +1,118 @@
+ 
+
+ .overlap {
+    background-color: #4283e7;
+    box-shadow: 0px 4px 6px #00000066;
+    height: 130px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1350px;
+  }
+  
+   .text-wrapper {
+    color: #b9d4fe;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+  }
+  
+   .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 204px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+  }
+  
+   .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 403px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+  }
+  
+   .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 619px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+  }
+  
+   .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 780px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+  }
+  
+   .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 908px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+  }
+  
+   .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 1100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+  }
+  
+   .overlap-group {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/653bc8d5604ac7cec9b6898f/img/ellipse-10.svg);
+    background-size: 100% 100%;
+    height: 60px;
+    left: 1280px;
+    position: absolute;
+    top: 35px;
+    width: 60px;
+  }
+  
+   .sunlight {
+    height: 24px !important;
+    left: 18px !important;
+    position: absolute !important;
+    top: 18px !important;
+    width: 24px !important;
+  }
+  

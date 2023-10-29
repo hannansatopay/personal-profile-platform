@@ -1,0 +1,293 @@
+.experience {
+    background-color: #21262e;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .experience .div {
+    background-color: #21262e;
+    height: 1024px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .experience .text-wrapper {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 638px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 199px;
+  }
+  
+  .experience .frame {
+    background-color: rgba(52, 55, 64, 1);
+    border-radius: 30px;
+    box-shadow: 10px 10px 100px 10px #3b434e40;
+    height: 225px;
+    left: 61px;
+    overflow: hidden;
+    position: absolute;
+    top: 295px;
+    width: 375px;
+  }
+  
+  .experience .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 25.2px;
+    font-weight: 700;
+    left: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 100%;
+    top: 14px;
+  }
+  
+  .experience .text-wrapper-3 {
+    color: #76b9ff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 13.4px;
+    font-weight: 500;
+    left: 76%;
+    letter-spacing: 0;
+    line-height: normal;
+    
+    position: absolute;
+    text-decoration: underline;
+    top: 193px;
+  }
+  
+  .experience .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 18.4px;
+    font-weight: 700;
+    left: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 50px;
+  }
+  
+  .experience .p {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    text-align: justify;
+    left: 21px;
+    justify-content: center;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 87px;
+    width: 336px;
+  }
+
+  
+  .experience .frame-2 {
+    background-color: rgba(52, 55, 64, 1);
+    border-radius: 30px;
+    box-shadow: 10px 10px 100px 10px #3b434e40;
+    height: 225px;
+    left: 61px;
+    overflow: hidden;
+    position: absolute;
+    top: 646px;
+    width: 375px;
+  }
+  
+  .experience .frame-3 {
+    background-color: rgba(52, 55, 64, 1);
+    border-radius: 30px;
+    box-shadow: 10px 10px 100px 10px #3b434e40;
+    height: 225px;
+    left: 494px;
+    overflow: hidden;
+    position: absolute;
+    top: 295px;
+    width: 375px;
+  }
+  
+  .experience .frame-4 {
+    background-color: rgba(52, 55, 64, 1);
+    border-radius: 30px;
+    box-shadow: 10px 10px 100px 10px #3b434e40;
+    height: 225px;
+    left: 494px;
+    overflow: hidden;
+    position: absolute;
+    top: 646px;
+    width: 375px;
+  }
+  
+  .experience .frame-5 {
+    background-color: rgba(52, 55, 64, 1);
+    border-radius: 30px;
+    box-shadow:10px 10px 100px 10px rgba(59, 67, 79, 0.25);
+    height: 225px;
+    left: 925px;
+    overflow: hidden;
+    position: absolute;
+    top: 295px;
+    width: 375px;
+  }
+  
+  .experience .frame-6 {
+    background-color: rgba(52, 55, 64, 1);
+    border-radius: 30px;
+    box-shadow: 10px 10px 100px 10px #3b434e40;
+    height: 225px;
+    left: 925px;
+    overflow: hidden;
+    position: absolute;
+    top: 646px;
+    width: 375px;
+  }
+  
+  .experience .overlap-groupe {
+    background-color: #4383e8;
+    box-shadow: 0px 4px 6px #00000066;
+    height: 137px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1351px;
+  }
+  
+  .experience .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    height: 29px;
+    left: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .experience .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 204px;
+    letter-spacing: 0;
+    cursor: pointer;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .experience .text-wrapper-7 {
+    cursor: pointer;
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 403px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .experience .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    height: 29px;
+    left: 619px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .experience .text-wrapper-9 {
+    cursor: pointer;
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 780px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .experience .text-wrapper-10 {
+    color: #b3cffd;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 908px;
+    letter-spacing: 0;
+    line-height: normal;
+    cursor: pointer;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .experience .overlap {
+    border-radius: 30px;
+    height: 60px;
+    left: 1280px;
+    position: absolute;
+    top: 39px;
+    width: 60px;
+  }
+  
+  .experience .ellipse {
+    background-color: #7da9f3;
+    border-radius: 30px;
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 60px;
+  }
+  
+  .experience .sunlight {
+    height: 24px !important;
+    left: 18px !important;
+    position: absolute !important;
+    top: 18px !important;
+    width: 24px !important;
+  }
+  
+  .experience .text-wrapper-11 {
+    cursor: pointer;
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 1100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  

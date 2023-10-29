@@ -1,0 +1,277 @@
+.signup {
+    background-color: #21262e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+  }
+  
+  .signup .div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #21262e;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+  }
+  
+  .signup .rectangle {
+    height: 100%;
+    /* left: 8329px; */
+    position: absolute;
+    top: 613px;
+    width: 100%;
+  }
+  .rectanglex{
+    background-color: #33363f;
+    border-radius: 30px;
+    height: 61px;
+    /* left: 532px; */
+    position: absolute;
+    top: 158px;
+    width: 620px;
+  }
+  .signup .img {
+    background-color: #33363f;
+    border-radius: 30px;
+    height: 61px;
+    /* left: 532px; */
+    position: absolute;
+    top: 312px;
+    width: 620px;
+  }
+  
+  
+    .rectangley{
+    background-color: #33363f;
+    border-radius: 30px;
+    height: 61px;
+    /* left: 532px; */
+    position: absolute;
+    top: 237px;
+    width: 620px;
+
+  }
+  
+  .rectanglez{
+    background-color: #33363f;
+    border-radius: 30px;
+    height: 61px;
+    /* left: 532px; */
+    position: absolute;
+    top: 445px;
+    width: 620px;
+  }
+  
+  
+  .signup .overlap-group {
+    border-radius: 30px;
+    height:7px;
+    left: 502px;
+    position: absolute;
+    top:530px;
+    width: 620px;
+  }
+  
+  .signup .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 42px;
+    white-space: nowrap;
+    width: 284px;
+  }
+  
+  .signup .rectangle-4 {
+    background-color: #a5bcff;
+    border-radius: 30px;
+    height: 50px;
+    padding-left:20% ;
+    cursor: pointer;
+    left: 0;
+    font-size: 1.5rem;
+    color:black;
+    position: absolute;
+    top: 0;
+    width: 340px;
+  }
+  
+  .signup .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    /* left: 286px; */
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 426px;
+    white-space: nowrap;
+    width: 231px;
+  }
+  
+  .signup .date-of-birth {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 286px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 579px;
+    white-space: nowrap;
+    width: 231px;
+  }
+  
+  .signup .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    /* left: 286px; */
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 655px;
+    white-space: nowrap;
+    width: 127px;
+  }
+  
+  .signup .rectangle-5 {
+    background-color: #33363f;
+    border-radius: 30px;
+    height: 61px;
+    /* left: 532px; */
+    position: absolute;
+    top: 312px;
+    width: 620px;
+  }
+  
+  .signup .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30.3px;
+    font-weight: 400;
+    left: 286px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 502px;
+    white-space: nowrap;
+    width: 117px;
+  }
+  
+  .signup .rectangle-6 {
+    background-color: #1e88e5;
+    border-radius: 100px;
+    height: 18px;
+       cursor: pointer;
+    left: 500px;
+    position: absolute;
+    top: 410px;
+    width: 21px;
+  }
+  
+  .signup .rectangle-7 {
+    background-color: #d9d9d9;
+    border-radius: 100px;
+    height: 18px;
+    left: 735px;
+       cursor: pointer;
+    position: absolute;
+    top: 410px;
+    width: 21px;
+  }
+  
+  .signup .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 30.3px;
+    font-weight: 400;
+    left: 535px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 402px;
+    white-space: nowrap;
+    width: 72px;
+  }
+  
+  .signup .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 30.3px;
+    font-weight: 400;
+    left: 774px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 402px;
+    white-space: nowrap;
+    width: 108px;
+  }
+  
+  .signup .already-have-an {
+    color: transparent;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    /* left: 454px; */
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 600px;
+  }
+  
+  .signup .span {
+    color: #ffffff;
+  }
+  
+  .signup .text-wrapper-9 {
+    color: #000000;
+  }
+  
+  .signup .text-wrapper-10 {
+     cursor: pointer;
+    color: #6a9ae1;
+  }
+  
+  .signup .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 700;
+    /* left: 595px; */
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 60px;
+  }
+  
+  .signup .overlap {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/653bc8d5604ac7cec9b6898f/img/ellipse-13.svg);
+    background-size: 100% 100%;
+    height: 60px;
+    left: 1345px;
+    position: absolute;
+    top: 35px;
+    width: 60px;
+  }
+  
+  .signup .sunlight {
+    height: 24px !important;
+    left: 18px !important;
+    position: absolute !important;
+    top: 18px !important;
+    width: 24px !important;
+  }
+  
