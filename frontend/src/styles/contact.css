@@ -1,0 +1,412 @@
+.contact {
+    background-color: #21262e;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .contact .div {
+    background-color: #21262e;
+    height: 1024px;
+    position: relative;
+    width: 1350px;
+  }
+  
+  .contact .overlap-groupc {
+    background-color: #4f5463;
+    border-radius: 30px;
+    height: 564px;
+    left: 114px;
+    position: absolute;
+    top: 283px;
+    width: 1130px;
+  }
+  
+  .contact .overlapc {
+    height: 83px;
+    left: 36px;
+    position: absolute;
+    top: 55px;
+    width: 278px;
+  }
+  
+  .contact .text-wrapper {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 75px;
+    width: 168px;
+  }
+  
+  .contact .rectangle {
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: -5px;
+    width: 278px;
+  }
+  
+  .contact .overlap-2 {
+    height: 82px;
+    left: 816px;
+    position: absolute;
+    top: 56px;
+    width: 278px;
+  }
+  
+  .contact .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 99px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 71px;
+    width: 84px;
+  }
+  
+  .contact .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 525px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 130px;
+    width: 80px;
+  }
+  
+  .contact .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+    left: 463px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 267px;
+  }
+  
+  .contact .overlap-3 {
+    height: 91px;
+    left: 236px;
+    cursor: pointer;
+    position: absolute;
+    top: 346px;
+    width: 84px;
+  }
+  
+  .contact .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 60px;
+    width: 84px;
+  }
+  
+  .contact .ellipse {
+    background-color: #ffffff;
+    border-radius: 31px/30.5px;
+    height: 61px;
+    z-index: -1;
+    left: 11px;
+    position: absolute;
+    top: 0;
+    width: 62px;
+  }
+  
+  .contact .text-wrapper-6 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+  }
+  
+  .contact .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 430px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 408px;
+    width: 70px;
+  }
+  
+  .contact .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 610px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 410px;
+    width: 101px;
+  }
+  
+  .contact .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 821px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 412px;
+    width: 71px;
+  }
+  
+  .contact .div-wrapper {
+  cursor: pointer;
+    border-radius: 31px/30.5px;
+    height: 61px;
+    left: 430px;
+    position: absolute;
+    top: 346px;
+    width: 62px;
+  }
+  
+  .contact .text-wrapper-10 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+  }
+  
+  .contact .overlap-4 {
+    border-radius: 31px/30.5px;
+    height: 61px;
+    left: 627px;
+    cursor: pointer;
+    position: absolute;
+    top: 346px;
+    width: 62px;
+  }
+  
+  .contact .text-wrapper-11 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+  }
+  
+  .contact .overlap-5 {
+    cursor: pointer;
+    border-radius: 31px/30.5px;
+    height: 61px;
+    left: 830px;
+    position: absolute;
+    top: 346px;
+    width: 62px;
+  }
+  
+  .contact .text-wrapper-12 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+  }
+  
+  .contact .rectangle-2 {
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    height: 52px;
+    left: 426px;
+    position: absolute;
+    top: 51px;
+    width: 278px;
+  }
+  
+  .contact .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 637px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 196px;
+  }
+  
+  .contact .overlap-6 {
+    background-color: #4383e8;
+    box-shadow: 0px 4px 6px #00000066;
+    height: 137px;
+    left: -4px;
+    position: absolute;
+    top: 0;
+    width: 1353px;
+  }
+  
+  .contact .text-wrapper-14 {
+    color: #ffffff;
+    cursor: pointer;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .contact .text-wrapper-15 {
+    cursor: pointer;
+    color: #b3cffd;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 204px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .contact .text-wrapper-16 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left:403px;
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .contact .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 619px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    cursor: pointer;
+    top: 55px;
+  }
+  
+  .contact .text-wrapper-18 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 780px;
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .contact .text-wrapper-19 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    left: 908px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .contact .overlap-7 {
+    border-radius: 30px;
+    height: 60px;
+    left: 1280px;
+    position: absolute;
+    top: 39px;
+    width: 60px;
+  }
+  
+  .contact .ellipse-2 {
+    background-color: #7da9f3;
+    border-radius: 30px;
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 60px;
+  }
+  
+  .contact .sunlight {
+    height: 24px !important;
+    left: 18px !important;
+    position: absolute !important;
+    top: 18px !important;
+    width: 24px !important;
+  }
+  
+  .contact .text-wrapper-20 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    cursor: pointer;
+    font-weight: 400;
+    left: 1100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  i{
+   font-size: 69px;
+   font-size: 69px;
+    margin-top: -4px;
+    margin-left: -3px;
+    z-index:10;
+  }

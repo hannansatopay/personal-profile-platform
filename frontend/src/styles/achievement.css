@@ -1,0 +1,331 @@
+.achievement {
+    background-color: #21262e;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .achievement .div {
+    background-color: #21262e;
+    height: 1124px;
+    overflow: hidden;
+    position: relative;
+    width: 1350px;
+  }
+  
+  .achievement .frame {
+    background-color: #343740;
+    border-radius: 30px;
+    height: 218px;
+    left: 171px;
+    overflow: hidden;
+    position: absolute;
+    top: 295px;
+    width: 1097px;
+  }
+  
+  .achievement .overlap-group {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/653bc8d5604ac7cec9b6898f/img/rectangle-15.svg);
+    background-size: 100% 100%;
+    height: 150px;
+    left: 35px;
+    position: absolute;
+    top: 33px;
+    width: 200px;
+  }
+  
+  .achievement .text-wrapper {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 17.9px;
+    font-weight: 400;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 57px;
+  }
+  
+  .achievement .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 368px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 30px;
+  }
+  
+  .achievement .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 368px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 84px;
+  }
+  
+  .achievement .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 368px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 138px;
+
+  }
+  
+  .achievement .div-wrapper {
+    background-color: #42a5f5;
+    height: 41px;
+    left: 954px;
+    border-radius: 5px;
+    position: absolute;
+    top: 25px;
+    width: 74px;
+  }
+  
+  .achievement .text-wrapper-5 {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 17.9px;
+    font-weight: 400;
+    left: 20px;
+   
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+  }
+  
+  .achievement .frame-2 {
+    background-color: #343740;
+    border-radius: 30px;
+    height: 218px;
+    left: 171px;
+    overflow: hidden;
+    position: absolute;
+    top: 569px;
+    width: 1097px;
+  }
+  
+  .achievement .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 17.9px;
+    font-weight: 400;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 62px;
+  }
+  
+  .achievement .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 368px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 138px;
+  }
+  
+  .achievement .frame-3 {
+    background-color: #42a5f5;
+    height: 41px;
+    left: 954px;
+    position: absolute;
+    border-radius: 5px;
+    top: 25px;
+    width: 74px;
+  }
+  
+  .achievement .frame-4 {
+    background-color: #343740;
+    border-radius: 30px;
+    height: 218px;
+    left: 171px;
+    overflow: hidden;
+    position: absolute;
+    top: 843px;
+    width: 1097px;
+  }
+  
+  .achievement .overlap {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/653bc8d5604ac7cec9b6898f/img/rectangle-15-2.svg);
+    background-size: 100% 100%;
+    height: 136px;
+    left: 39px;
+    position: absolute;
+    top: 45px;
+    width: 200px;
+  }
+  
+  .achievement .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 17.9px;
+    font-weight: 400;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 68px;
+  }
+  
+  .achievement .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 620px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 199px;
+  }
+  
+  .achievement .overlap-2 {
+    background-color: #4383e8;
+    box-shadow: 0px 4px 6px #00000066;
+    height: 137px;
+    left: -4px;
+    position: absolute;
+    top: 0;
+    width: 1354px;
+  }
+  
+  .achievement .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 65px;
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .achievement .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 204px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    cursor: pointer;
+    top: 55px;
+  }
+  
+  .achievement .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    height: 29px;
+    left: 403px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .achievement .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 29px;
+    left: 619px;
+    letter-spacing: 0;
+    cursor: pointer;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .achievement .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 780px;
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  
+  .achievement .text-wrapper-15 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 908px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    cursor: pointer;
+    top: 55px;
+  }
+  
+  .achievement .overlap-3 {
+    border-radius: 30px;
+    height: 60px;
+    left: 1280px;
+    position: absolute;
+    top: 39px;
+    width: 60px;
+  }
+  
+  .achievement .ellipse {
+    background-color: #7da9f3;
+    border-radius: 30px;
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 60px;
+  }
+  
+  .achievement .sunlight {
+    height: 24px !important;
+    left: 18px !important;
+    position: absolute !important;
+    top: 18px !important;
+    width: 24px !important;
+  }
+  
+  .achievement .text-wrapper-16 {
+    color: #ffffff;
+    cursor: pointer;
+    font-family: "DM Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 1100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+  }
+  

@@ -1,0 +1,125 @@
+.login {
+    background-color: #21262e;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  .login .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30.3px;
+    font-weight: 400;
+    left: 286px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 502px;
+    white-space: nowrap;
+    width: 117px;
+  }
+  .login .div {
+    background-color: #21262e;
+    height: 800px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+  }
+  
+  .login .rectangle {
+ 
+    height: 900px;
+    left: 5349px;
+    position: absolute;
+    top: 813px;
+    width: 1121px;
+  }
+  
+  .login .rectangle-2 {
+    color: white;
+    padding: 2%;
+    background-color: #33363f;
+    border-radius: 30px;
+    height: 69px;
+    left: 420px;
+    position: absolute;
+    top: 180px;
+    width: 594px;
+  }
+  
+  .login .rectangle-3 {
+    color: white;
+    padding: 2%;
+    background-color: #33363f;
+    border-radius: 30px;
+    height: 69px;
+    left: 420px;
+    position: absolute;
+    top: 300px;
+    width: 594px;
+  }
+  
+  
+  .login .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 872px;
+    letter-spacing: 0;
+    line-height: normal;
+    cursor: pointer;
+    position: absolute;
+    top: 520px;
+    white-space: nowrap;
+  }
+  
+  .login .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    cursor: pointer;
+    left: 395px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 520px;
+  }
+  
+  .login .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 700;
+    left: 604px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 40px;
+  }
+  
+  .login .overlap-group {
+    background-color: #4383e8;
+    border-radius: 30px;
+    height: 86px;
+    left: 519px;
+    position: absolute;
+    cursor: pointer;
+    top: 400px;
+    width: 403px;
+  }
+  
+  .login .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "DM Sans", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 143px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    cursor: pointer;
+    top: 24px;
+  }
+  
